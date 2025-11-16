@@ -12,3 +12,16 @@ D:\ООП_2-курс\lab_2\lab_2\obj\Debug\net8.0\refint\lab_2.dll
 D:\ООП_2-курс\lab_2\lab_2\obj\Debug\net8.0\lab_2.pdb
 D:\ООП_2-курс\lab_2\lab_2\obj\Debug\net8.0\lab_2.genruntimeconfig.cache
 D:\ООП_2-курс\lab_2\lab_2\obj\Debug\net8.0\ref\lab_2.dll
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\lab_2\lab_2\bin\Debug\net8.0\lab_2.exe
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\lab_2\lab_2\bin\Debug\net8.0\lab_2.deps.json
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\lab_2\lab_2\bin\Debug\net8.0\lab_2.runtimeconfig.json
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\lab_2\lab_2\bin\Debug\net8.0\lab_2.dll
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\lab_2\lab_2\bin\Debug\net8.0\lab_2.pdb
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\lab_2\lab_2\obj\Debug\net8.0\lab_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\lab_2\lab_2\obj\Debug\net8.0\lab_2.csproj.CoreCompileInputs.cache
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\lab_2\lab_2\obj\Debug\net8.0\lab_2.sourcelink.json
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\lab_2\lab_2\obj\Debug\net8.0\lab_2.dll
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\lab_2\lab_2\obj\Debug\net8.0\refint\lab_2.dll
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\lab_2\lab_2\obj\Debug\net8.0\lab_2.pdb
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\lab_2\lab_2\obj\Debug\net8.0\lab_2.genruntimeconfig.cache
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\lab_2\lab_2\obj\Debug\net8.0\ref\lab_2.dll

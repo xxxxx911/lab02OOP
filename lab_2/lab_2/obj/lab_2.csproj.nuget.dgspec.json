@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ООП_2-курс\\lab_2\\lab_2\\lab_2.csproj": {}
+    "D:\\NUWM\\2 kurc\\ООП_2-курс\\lab_2.2\\lab02OOP\\lab_2\\lab_2\\lab_2.csproj": {}
   },
   "projects": {
-    "D:\\ООП_2-курс\\lab_2\\lab_2\\lab_2.csproj": {
+    "D:\\NUWM\\2 kurc\\ООП_2-курс\\lab_2.2\\lab02OOP\\lab_2\\lab_2\\lab_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ООП_2-курс\\lab_2\\lab_2\\lab_2.csproj",
+        "projectUniqueName": "D:\\NUWM\\2 kurc\\ООП_2-курс\\lab_2.2\\lab02OOP\\lab_2\\lab_2\\lab_2.csproj",
         "projectName": "lab_2",
-        "projectPath": "D:\\ООП_2-курс\\lab_2\\lab_2\\lab_2.csproj",
+        "projectPath": "D:\\NUWM\\2 kurc\\ООП_2-курс\\lab_2.2\\lab02OOP\\lab_2\\lab_2\\lab_2.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ООП_2-курс\\lab_2\\lab_2\\obj\\",
+        "outputPath": "D:\\NUWM\\2 kurc\\ООП_2-курс\\lab_2.2\\lab02OOP\\lab_2\\lab_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

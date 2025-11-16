@@ -1,0 +1,5 @@
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\obj\Debug\net9.0\lab02OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\obj\Debug\net9.0\lab02OOP.AssemblyInfoInputs.cache
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\obj\Debug\net9.0\lab02OOP.AssemblyInfo.cs
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\obj\Debug\net9.0\lab02OOP.csproj.CoreCompileInputs.cache
+D:\NUWM\2 kurc\ООП_2-курс\lab_2.2\lab02OOP\obj\Debug\net9.0\lab02OOP.sourcelink.json
